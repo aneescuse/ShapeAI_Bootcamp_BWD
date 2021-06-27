@@ -1,0 +1,16 @@
+import React from "react";
+
+
+function Info(){
+
+return(
+
+<header>
+  <h1>ShapeAI Bootcamps</h1>
+  </header>
+
+);
+
+}
+
+export default Info;
